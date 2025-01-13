@@ -2,9 +2,6 @@
 
 <p>Welcome to my page! </br> I'm Minwoo Kim, Frontend developer from <img src="./readme_assets/south-korea.png" width="13"/> <b>Seoul, South Korea.</b>
 
-<p> ECHO V2 BETA (개발중) https://echo-v2-poc.test.publ.biz/ </p>
-<p> GOOGLE FONT https://echo-fontg.test.publ.biz/ </p>
-
 <h3>Things I code with</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
